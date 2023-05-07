@@ -1,0 +1,20 @@
+.register {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-image: url("../../assets/R.png");
+  }
+  .register-container {
+    width: 350px;
+    height: 180px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 0 2px rgba(18, 6, 6, 0.1);
+    background-color: aliceblue;
+    padding: 20px;
+    padding-bottom: 10px;
+  }
