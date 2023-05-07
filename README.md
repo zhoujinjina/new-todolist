@@ -4,7 +4,7 @@ React18+hooks+redux+antd
 
 ```text
 # GitHub
-git clone https://github.com/zhoujinjina/todo_list.git
+git clone https://github.com/zhoujinjina/new-todolist.git
 ```
 
 - **Install：**
